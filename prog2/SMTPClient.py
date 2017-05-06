@@ -1,3 +1,8 @@
+#Name: Ali H. Iqbal                                              
+#Course: CSC 138                                                                            
+#Socket Programming Assignment 2                                           
+#Professor: Jun Dai   
+
 from socket import *
 heloCommand = 'HELO Alice\r\n'
 
