@@ -1,2 +1,2 @@
-# CS138
-Networks and Internet
+# Socket-Programming
+CS 138 Computer Networking
